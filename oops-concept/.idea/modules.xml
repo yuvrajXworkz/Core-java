@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Appolo-hospital.iml" filepath="$PROJECT_DIR$/Appolo-hospital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops-concept.iml" filepath="$PROJECT_DIR$/oops-concept.iml" />
     </modules>
   </component>
 </project>
